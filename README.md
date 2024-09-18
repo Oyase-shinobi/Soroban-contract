@@ -10,7 +10,7 @@ This contract also manages a ballot process but, in this case, the user must hol
 
 ### House Purchase
 This contract manages a house purchase between buyer and seller. It uses another contract which acts as an asset and represents the underlying asset, that is, the house. After the buyer send the payment to the current asset owner, it changes the ownership of the asset to the buyer.
-
+      
 ### Paid Account
 The Paid Account contract allows users to deposit tokens (a previously established token) in the contract address and earn daily interest. The contract provides functions for administrators so that the contract always has funds when users request withdrawals.
 
