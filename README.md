@@ -22,19 +22,6 @@ A contract to make a simple deposit to the contract address.
 **IMPORTANT**: These contracts have a test suite but they have not been audited. They can serve as a base for learning but not for being used directly 
 in a real application without being audited first.
 
-You can read about these contracts in my dev.to blog:
-
-- **Ballot**: https://dev.to/icolomina/building-a-ballot-contract-using-soroban-plataform-and-rust-sdk-1hg1
-- **Ballot with token**: https://dev.to/icolomina/using-tokenization-to-control-a-soroban-voting-smart-contract-3lm6
-- **House Purchase**: New version comming soon
-
-> The House Purchase article link shows how to connect to the contract using PHP. It's also a good way to learn how the contract works
-
-- **Paid Account**: Comming soon
-- **Simple Deposit**: https://dev.to/icolomina/making-deposits-to-an-smart-contract-using-php-symfony-and-the-soroban-technology-4f10
-
-> The Simple Deposit article link shows an explanation about the contract and how to interact with it using a PHP / Symfony application.
-
 ## Test the contracts
 
 To test the contracts, you must prepare first your environment. Follow the [soroban official documentation](https://developers.stellar.org/docs/build/smart-contracts/getting-started/setup) to achieve it.
